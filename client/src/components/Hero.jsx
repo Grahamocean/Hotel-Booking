@@ -10,7 +10,7 @@ const Hero = () => {
       <h1 className="font-playfair text-2xl md:text-5xl md:text-[56px] md:leading-[56px] font-bod md:font-extrabold max-w-xl mt-4">
         Discover Your Perfect Gateway Destination
       </h1>
-      <p className="max w-130 mt-2 text-sm md:text-base">
+      <p className="max w-full mt-2 text-sm md:text-base">
         Unparalled luxury and comfort await at the world's most exclusive hotels
         and resorts. Start your journey today.
       </p>
